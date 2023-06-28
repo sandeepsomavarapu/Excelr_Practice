@@ -1,3 +1,5 @@
 SUPER is keyword which is used to represent parent class properties
 FINAL KEYWORD can be used at three places before the variable before method and before the class
-this keyword is used for current class obj.
+
+A favicon is a small image displayed next to the page title in the browser tab.
+
